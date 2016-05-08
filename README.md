@@ -17,7 +17,7 @@ Get some practice in!
   - We do not need to push anything yet. Commiting at different stages while continuing to code is good practice. Think of it like a check point in a video game: multiple save files that we can go back to if needed.
 9. `cd submissions/brian-rick`
   - Notice the "build passing" message in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and project teams all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
-  - Let's try and get a "build failing" message to see what that's like.
+  - Let's try and get a "build failing" message instead, so we can see what that's like.
 10. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
 11. `git add wat.js`
 12. `git commit -m 'remove a semicolon to make the lint test fail'`

@@ -17,9 +17,9 @@ Get some practice in!
   - We do not need to push anything yet. Commiting at different stages and continuing on is good practice. Think of it like check points in a video game. Multiple save files that we can go back to if needed.
 9. `cd submissions/brian-rick`
   - Notice the "build passing" message in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and projects all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
-  - Want to try and get a "build failing" message to see what it's like? 
+  - Let's try and get a "build failing" message to see what that's like.
 10. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
 11. `git add wat.js`
 12. `git commit -m 'remove a semicolon to make the lint test fail'`
 13. `git push origin test-branch`
-13. Head over to GitHub to make a PR from test-branch and see what the result it!
+13. Head over to GitHub to make a PR from `test-branch` and see what the result it!

@@ -14,9 +14,9 @@ Get some practice in!
   - The command above copies the starter-code directory and its contents, and places them directly into the submissions directory with the new name that you provide it with in the path (in this case, `brian-rick`). 
 7. `git add submissions/brian-rick`
 8. `git commit -m 'add new demonstration directory for our test repo!'`
-  - We do not need to push anything yet. Commiting at different stages and continuing on is good practice. Think of it like check points in a video game. Multiple save files that we can go back to if needed.
+  - We do not need to push anything yet. Commiting at different stages while continuing to code is good practice. Think of it like a check point in a video game: multiple save files that we can go back to if needed.
 9. `cd submissions/brian-rick`
-  - Notice the "build passing" message in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and projects all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
+  - Notice the "build passing" message in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and project teams all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).
   - Let's try and get a "build failing" message to see what that's like.
 10. Open up the `wat.js` file and remove the semicolon from the end of the line and save the file.
 11. `git add wat.js`

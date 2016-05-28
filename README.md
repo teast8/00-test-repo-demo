@@ -18,4 +18,4 @@ Get some practice in :smiley:
 12. `git commit -m 'remove semicolon to make the lint test fail'`
 13. `git push origin test-branch`
 13. Head over to GitHub to make a PR from `test-branch` and see what the result it!
-14. Also notice the "Issues?" button? When you're still stuck after the 15 minute rule, click on the button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue.
+14. Also notice the "Issues?" button? When you're still stuck in lab (after the 15 minute rule), click on the button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue.

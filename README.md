@@ -8,7 +8,7 @@ Get some practice in :smiley:
 
 1. Fork this repository.  
 2. Copy the resulting git link. 
-3. `git clone` this fork into your `my-forked-repos` directory (review setup [instructions](https://github.com/codefellows/seattle-301d7/blob/master/README.md#create-and-setup-your-301-directory-structure)).  
+3. `git clone` this fork into your `my-forked-repos` directory (review setup [instructions](https://github.com/codefellows/seattle-301d9/blob/master/README.md#create-and-setup-your-301-directory-structure)).  
 4. `cd` into this repository.  
 5. Immediately `git checkout -b test-branch`  
   - Notice the "build passing" message icon in this README file? That's an import from Travis CI - just one of many continuous integration tools used by organizations and project teams all over the world! We use Travis CI in this class to help us lint code being submitted (in your case as the developer, it will test any PRs you submit for proper linting).

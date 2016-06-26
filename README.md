@@ -1,6 +1,6 @@
 ![CF](https://i.imgur.com/7v5ASc8.png)  Test Repo (Demo)
 =======
-[![Build Status](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo) [![GitHub issues](https://img.shields.io/badge/Issues%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d7/issues/new) 
+[![Build Status](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo.svg?branch=master)](https://travis-ci.org/codefellows-seattle-301d7/00-test-repo-demo) [![GitHub issues](https://img.shields.io/badge/Stuck%3F-Ask%20for%20Help!-orange.svg)](https://github.com/codefellows/seattle-301d9/issues/new) 
 
 #### This is only a test. Become familiar with the workflow for your lab assignments!
 
@@ -18,4 +18,4 @@ Get some practice in :smiley:
 12. `git commit -m 'remove semicolon to make the lint test fail'`
 13. `git push origin test-branch`
 13. Head over to GitHub to make a PR from `test-branch`, let the test run and finish, and see what the result is!
-14. Also notice the "Issues?" button? When you're stuck in lab (after the 15 minute rule), click on the issues button and fill out the template answering all the questions and finally checking the boxes either by placing an 'x' inside the square brackets, or by clicking on the boxes after submitting the issue. This will notify the instructional team immediately! (TAs included). Try it out -- create a test issue to get a feel for how it works :sunglasses:
+14. Also notice the orange Ask For Help button? When you're stuck in lab (after the 15 minute rule), click on this button and fill out the template answering all the questions and finally checking the boxes by placing an 'x' inside the square brackets. When you submit, this will notify the instructional team immediately! (TAs included). Try it out -- click the orange button to get a feel for how it works :sunglasses:
